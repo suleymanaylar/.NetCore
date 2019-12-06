@@ -1,0 +1,28 @@
+C:\Users\Suleyman.Aylar\Documents\Visual Studio 2017\Projects\Suleyman\Suleyman.DataAccess\bin\Debug\netcoreapp2.2\Suleyman.DataAccess.deps.json
+C:\Users\Suleyman.Aylar\Documents\Visual Studio 2017\Projects\Suleyman\Suleyman.DataAccess\bin\Debug\netcoreapp2.2\Suleyman.DataAccess.dll
+C:\Users\Suleyman.Aylar\Documents\Visual Studio 2017\Projects\Suleyman\Suleyman.DataAccess\bin\Debug\netcoreapp2.2\Suleyman.DataAccess.pdb
+C:\Users\Suleyman.Aylar\Documents\Visual Studio 2017\Projects\Suleyman\Suleyman.DataAccess\bin\Debug\netcoreapp2.2\Suleyman.Core.dll
+C:\Users\Suleyman.Aylar\Documents\Visual Studio 2017\Projects\Suleyman\Suleyman.DataAccess\bin\Debug\netcoreapp2.2\Suleyman.Entities.dll
+C:\Users\Suleyman.Aylar\Documents\Visual Studio 2017\Projects\Suleyman\Suleyman.DataAccess\bin\Debug\netcoreapp2.2\Suleyman.Core.pdb
+C:\Users\Suleyman.Aylar\Documents\Visual Studio 2017\Projects\Suleyman\Suleyman.DataAccess\bin\Debug\netcoreapp2.2\Suleyman.Entities.pdb
+C:\Users\Suleyman.Aylar\Documents\Visual Studio 2017\Projects\Suleyman\Suleyman.DataAccess\obj\Debug\netcoreapp2.2\Suleyman.DataAccess.csprojAssemblyReference.cache
+C:\Users\Suleyman.Aylar\Documents\Visual Studio 2017\Projects\Suleyman\Suleyman.DataAccess\obj\Debug\netcoreapp2.2\Suleyman.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Suleyman.Aylar\Documents\Visual Studio 2017\Projects\Suleyman\Suleyman.DataAccess\obj\Debug\netcoreapp2.2\Suleyman.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Suleyman.Aylar\Documents\Visual Studio 2017\Projects\Suleyman\Suleyman.DataAccess\obj\Debug\netcoreapp2.2\Suleyman.DataAccess.AssemblyInfo.cs
+C:\Users\Suleyman.Aylar\Documents\Visual Studio 2017\Projects\Suleyman\Suleyman.DataAccess\obj\Debug\netcoreapp2.2\Suleyman.DataAccess.csproj.CopyComplete
+C:\Users\Suleyman.Aylar\Documents\Visual Studio 2017\Projects\Suleyman\Suleyman.DataAccess\obj\Debug\netcoreapp2.2\Suleyman.DataAccess.dll
+C:\Users\Suleyman.Aylar\Documents\Visual Studio 2017\Projects\Suleyman\Suleyman.DataAccess\obj\Debug\netcoreapp2.2\Suleyman.DataAccess.pdb
+C:\Users\suley\OneDrive\Masaüstü\Suleyman\Suleyman.DataAccess\bin\Debug\netcoreapp2.2\Suleyman.DataAccess.deps.json
+C:\Users\suley\OneDrive\Masaüstü\Suleyman\Suleyman.DataAccess\bin\Debug\netcoreapp2.2\Suleyman.DataAccess.dll
+C:\Users\suley\OneDrive\Masaüstü\Suleyman\Suleyman.DataAccess\bin\Debug\netcoreapp2.2\Suleyman.DataAccess.pdb
+C:\Users\suley\OneDrive\Masaüstü\Suleyman\Suleyman.DataAccess\bin\Debug\netcoreapp2.2\Suleyman.Core.dll
+C:\Users\suley\OneDrive\Masaüstü\Suleyman\Suleyman.DataAccess\bin\Debug\netcoreapp2.2\Suleyman.Entities.dll
+C:\Users\suley\OneDrive\Masaüstü\Suleyman\Suleyman.DataAccess\bin\Debug\netcoreapp2.2\Suleyman.Core.pdb
+C:\Users\suley\OneDrive\Masaüstü\Suleyman\Suleyman.DataAccess\bin\Debug\netcoreapp2.2\Suleyman.Entities.pdb
+C:\Users\suley\OneDrive\Masaüstü\Suleyman\Suleyman.DataAccess\obj\Debug\netcoreapp2.2\Suleyman.DataAccess.csprojAssemblyReference.cache
+C:\Users\suley\OneDrive\Masaüstü\Suleyman\Suleyman.DataAccess\obj\Debug\netcoreapp2.2\Suleyman.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\suley\OneDrive\Masaüstü\Suleyman\Suleyman.DataAccess\obj\Debug\netcoreapp2.2\Suleyman.DataAccess.AssemblyInfoInputs.cache
+C:\Users\suley\OneDrive\Masaüstü\Suleyman\Suleyman.DataAccess\obj\Debug\netcoreapp2.2\Suleyman.DataAccess.AssemblyInfo.cs
+C:\Users\suley\OneDrive\Masaüstü\Suleyman\Suleyman.DataAccess\obj\Debug\netcoreapp2.2\Suleyman.DataAccess.csproj.CopyComplete
+C:\Users\suley\OneDrive\Masaüstü\Suleyman\Suleyman.DataAccess\obj\Debug\netcoreapp2.2\Suleyman.DataAccess.dll
+C:\Users\suley\OneDrive\Masaüstü\Suleyman\Suleyman.DataAccess\obj\Debug\netcoreapp2.2\Suleyman.DataAccess.pdb

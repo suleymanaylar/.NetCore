@@ -1,0 +1,22 @@
+﻿@model Suleyman.WebUI.Models.CartSummeryViewModel
+
+<div class="dropdown-menu dropdown-menu-right ">
+
+    @foreach (var item in Model.Cart.CartLines)
+    {
+        <button class="dropdown-item" type="button">
+            <a>@item.Product.ProductName<span class="badge">@item.Quantity</span></a>
+        </button>
+    }
+    <button class="dropdown-item" type="button">
+        <a><span class="glypicon glypicon-align-left-glypicon-shoopingcart" aria-hidden="true">@Model.Cart.Total</span></a>
+    </button>
+
+    <button class="dropdown-item" type="button" onclick="location.href='@Url.Action("List", "Cart")'">
+        Go To Cart Details
+    </button>
+
+    @*<button class="dropdown-item" type="button">Action</button>
+        <button class="dropdown-item" type="button">Another action</button>
+        <button class="dropdown-item" type="button">Something else here</button>*@
+</div>

@@ -1,0 +1,35 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/_AdminLayout.cshtml";
+}
+
+<h1>Product List</h1>
+
+<a class="btn btn-success" asp-controller="Admin" asp-action="Add" > Add a New Product</a>
+<div>
+    <div class="table table-responsive">
+        <table class="table">
+            <tr>
+                <td>Product Name</td>
+                <td>Unit Price</td>
+                <td>Unit İn Stock</td>
+                <td></td>
+                <td></td>
+            </tr>
+
+            @foreach (var item in Model.Products)
+            {
+            <tr>
+                <td>@item.ProductName</td>
+                <td>@item.UnitPrice</td>
+                <td>@item.UnitsInStock</td>
+                <td><a class="btn btn-info" asp-controller="Admin" asp-action="Update" asp-route-productId="@item.ProductId">Update</a></td>
+                <td><a class="btn btn-danger" asp-controller="Admin" asp-action="Delete" asp-route-productId="@item.ProductId"> Delete</a></td>
+            </tr>
+            }
+
+
+        </table>
+    </div>
+</div>

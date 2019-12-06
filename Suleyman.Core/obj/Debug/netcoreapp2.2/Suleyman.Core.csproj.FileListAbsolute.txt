@@ -1,0 +1,23 @@
+C:\Users\Suleyman.Aylar\Documents\Visual Studio 2017\Projects\Suleyman\Suleyman.Core\bin\Debug\netcoreapp2.2\Suleyman.Core.deps.json
+C:\Users\Suleyman.Aylar\Documents\Visual Studio 2017\Projects\Suleyman\Suleyman.Core\bin\Debug\netcoreapp2.2\Suleyman.Core.dll
+C:\Users\Suleyman.Aylar\Documents\Visual Studio 2017\Projects\Suleyman\Suleyman.Core\bin\Debug\netcoreapp2.2\Suleyman.Core.pdb
+C:\Users\Suleyman.Aylar\Documents\Visual Studio 2017\Projects\Suleyman\Suleyman.Core\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.dll
+C:\Users\Suleyman.Aylar\Documents\Visual Studio 2017\Projects\Suleyman\Suleyman.Core\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.xml
+C:\Users\Suleyman.Aylar\Documents\Visual Studio 2017\Projects\Suleyman\Suleyman.Core\obj\Debug\netcoreapp2.2\Suleyman.Core.csproj.CoreCompileInputs.cache
+C:\Users\Suleyman.Aylar\Documents\Visual Studio 2017\Projects\Suleyman\Suleyman.Core\obj\Debug\netcoreapp2.2\Suleyman.Core.AssemblyInfoInputs.cache
+C:\Users\Suleyman.Aylar\Documents\Visual Studio 2017\Projects\Suleyman\Suleyman.Core\obj\Debug\netcoreapp2.2\Suleyman.Core.AssemblyInfo.cs
+C:\Users\Suleyman.Aylar\Documents\Visual Studio 2017\Projects\Suleyman\Suleyman.Core\obj\Debug\netcoreapp2.2\Suleyman.Core.csproj.CopyComplete
+C:\Users\Suleyman.Aylar\Documents\Visual Studio 2017\Projects\Suleyman\Suleyman.Core\obj\Debug\netcoreapp2.2\Suleyman.Core.dll
+C:\Users\Suleyman.Aylar\Documents\Visual Studio 2017\Projects\Suleyman\Suleyman.Core\obj\Debug\netcoreapp2.2\Suleyman.Core.pdb
+C:\Users\suley\OneDrive\Masaüstü\Suleyman\Suleyman.Core\bin\Debug\netcoreapp2.2\Suleyman.Core.deps.json
+C:\Users\suley\OneDrive\Masaüstü\Suleyman\Suleyman.Core\bin\Debug\netcoreapp2.2\Suleyman.Core.dll
+C:\Users\suley\OneDrive\Masaüstü\Suleyman\Suleyman.Core\bin\Debug\netcoreapp2.2\Suleyman.Core.pdb
+C:\Users\suley\OneDrive\Masaüstü\Suleyman\Suleyman.Core\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.dll
+C:\Users\suley\OneDrive\Masaüstü\Suleyman\Suleyman.Core\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.xml
+C:\Users\suley\OneDrive\Masaüstü\Suleyman\Suleyman.Core\obj\Debug\netcoreapp2.2\Suleyman.Core.csprojAssemblyReference.cache
+C:\Users\suley\OneDrive\Masaüstü\Suleyman\Suleyman.Core\obj\Debug\netcoreapp2.2\Suleyman.Core.csproj.CoreCompileInputs.cache
+C:\Users\suley\OneDrive\Masaüstü\Suleyman\Suleyman.Core\obj\Debug\netcoreapp2.2\Suleyman.Core.AssemblyInfoInputs.cache
+C:\Users\suley\OneDrive\Masaüstü\Suleyman\Suleyman.Core\obj\Debug\netcoreapp2.2\Suleyman.Core.AssemblyInfo.cs
+C:\Users\suley\OneDrive\Masaüstü\Suleyman\Suleyman.Core\obj\Debug\netcoreapp2.2\Suleyman.Core.csproj.CopyComplete
+C:\Users\suley\OneDrive\Masaüstü\Suleyman\Suleyman.Core\obj\Debug\netcoreapp2.2\Suleyman.Core.dll
+C:\Users\suley\OneDrive\Masaüstü\Suleyman\Suleyman.Core\obj\Debug\netcoreapp2.2\Suleyman.Core.pdb

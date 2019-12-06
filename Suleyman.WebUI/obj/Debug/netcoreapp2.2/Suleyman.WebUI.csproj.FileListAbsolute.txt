@@ -1,0 +1,86 @@
+C:\Users\Suleyman.Aylar\Documents\Visual Studio 2017\Projects\Suleyman\Suleyman.WebUI\bin\Debug\netcoreapp2.2\Suleyman.WebUI.deps.json
+C:\Users\Suleyman.Aylar\Documents\Visual Studio 2017\Projects\Suleyman\Suleyman.WebUI\bin\Debug\netcoreapp2.2\Suleyman.WebUI.runtimeconfig.json
+C:\Users\Suleyman.Aylar\Documents\Visual Studio 2017\Projects\Suleyman\Suleyman.WebUI\bin\Debug\netcoreapp2.2\Suleyman.WebUI.runtimeconfig.dev.json
+C:\Users\Suleyman.Aylar\Documents\Visual Studio 2017\Projects\Suleyman\Suleyman.WebUI\bin\Debug\netcoreapp2.2\Suleyman.WebUI.dll
+C:\Users\Suleyman.Aylar\Documents\Visual Studio 2017\Projects\Suleyman\Suleyman.WebUI\bin\Debug\netcoreapp2.2\Suleyman.WebUI.pdb
+C:\Users\Suleyman.Aylar\Documents\Visual Studio 2017\Projects\Suleyman\Suleyman.WebUI\bin\Debug\netcoreapp2.2\Suleyman.Bussines.dll
+C:\Users\Suleyman.Aylar\Documents\Visual Studio 2017\Projects\Suleyman\Suleyman.WebUI\bin\Debug\netcoreapp2.2\Suleyman.Core.dll
+C:\Users\Suleyman.Aylar\Documents\Visual Studio 2017\Projects\Suleyman\Suleyman.WebUI\bin\Debug\netcoreapp2.2\Suleyman.DataAccess.dll
+C:\Users\Suleyman.Aylar\Documents\Visual Studio 2017\Projects\Suleyman\Suleyman.WebUI\bin\Debug\netcoreapp2.2\Suleyman.Entities.dll
+C:\Users\Suleyman.Aylar\Documents\Visual Studio 2017\Projects\Suleyman\Suleyman.WebUI\bin\Debug\netcoreapp2.2\Suleyman.Bussines.pdb
+C:\Users\Suleyman.Aylar\Documents\Visual Studio 2017\Projects\Suleyman\Suleyman.WebUI\bin\Debug\netcoreapp2.2\Suleyman.Core.pdb
+C:\Users\Suleyman.Aylar\Documents\Visual Studio 2017\Projects\Suleyman\Suleyman.WebUI\bin\Debug\netcoreapp2.2\Suleyman.DataAccess.pdb
+C:\Users\Suleyman.Aylar\Documents\Visual Studio 2017\Projects\Suleyman\Suleyman.WebUI\bin\Debug\netcoreapp2.2\Suleyman.Entities.pdb
+C:\Users\Suleyman.Aylar\Documents\Visual Studio 2017\Projects\Suleyman\Suleyman.WebUI\obj\Debug\netcoreapp2.2\Suleyman.WebUI.csprojAssemblyReference.cache
+C:\Users\Suleyman.Aylar\Documents\Visual Studio 2017\Projects\Suleyman\Suleyman.WebUI\obj\Debug\netcoreapp2.2\Suleyman.WebUI.csproj.CoreCompileInputs.cache
+C:\Users\Suleyman.Aylar\Documents\Visual Studio 2017\Projects\Suleyman\Suleyman.WebUI\obj\Debug\netcoreapp2.2\Suleyman.WebUI.RazorAssemblyInfo.cache
+C:\Users\Suleyman.Aylar\Documents\Visual Studio 2017\Projects\Suleyman\Suleyman.WebUI\obj\Debug\netcoreapp2.2\Suleyman.WebUI.RazorAssemblyInfo.cs
+C:\Users\Suleyman.Aylar\Documents\Visual Studio 2017\Projects\Suleyman\Suleyman.WebUI\obj\Debug\netcoreapp2.2\Suleyman.WebUI.AssemblyInfoInputs.cache
+C:\Users\Suleyman.Aylar\Documents\Visual Studio 2017\Projects\Suleyman\Suleyman.WebUI\obj\Debug\netcoreapp2.2\Suleyman.WebUI.AssemblyInfo.cs
+C:\Users\Suleyman.Aylar\Documents\Visual Studio 2017\Projects\Suleyman\Suleyman.WebUI\obj\Debug\netcoreapp2.2\Suleyman.WebUI.RazorTargetAssemblyInfo.cache
+C:\Users\Suleyman.Aylar\Documents\Visual Studio 2017\Projects\Suleyman\Suleyman.WebUI\obj\Debug\netcoreapp2.2\Suleyman.WebUI.csproj.CopyComplete
+C:\Users\Suleyman.Aylar\Documents\Visual Studio 2017\Projects\Suleyman\Suleyman.WebUI\obj\Debug\netcoreapp2.2\Suleyman.WebUI.dll
+C:\Users\Suleyman.Aylar\Documents\Visual Studio 2017\Projects\Suleyman\Suleyman.WebUI\obj\Debug\netcoreapp2.2\Suleyman.WebUI.pdb
+C:\Users\Suleyman.Aylar\Documents\Visual Studio 2017\Projects\Suleyman\Suleyman.WebUI\bin\Debug\netcoreapp2.2\Suleyman.WebUI.Views.dll
+C:\Users\Suleyman.Aylar\Documents\Visual Studio 2017\Projects\Suleyman\Suleyman.WebUI\bin\Debug\netcoreapp2.2\Suleyman.WebUI.Views.pdb
+C:\Users\Suleyman.Aylar\Documents\Visual Studio 2017\Projects\Suleyman\Suleyman.WebUI\obj\Debug\netcoreapp2.2\Suleyman.WebUI.TagHelpers.input.cache
+C:\Users\Suleyman.Aylar\Documents\Visual Studio 2017\Projects\Suleyman\Suleyman.WebUI\obj\Debug\netcoreapp2.2\Suleyman.WebUI.TagHelpers.output.cache
+C:\Users\Suleyman.Aylar\Documents\Visual Studio 2017\Projects\Suleyman\Suleyman.WebUI\obj\Debug\netcoreapp2.2\Suleyman.WebUI.RazorCoreGenerate.cache
+C:\Users\Suleyman.Aylar\Documents\Visual Studio 2017\Projects\Suleyman\Suleyman.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Product\Index.g.cshtml.cs
+C:\Users\Suleyman.Aylar\Documents\Visual Studio 2017\Projects\Suleyman\Suleyman.WebUI\obj\Debug\netcoreapp2.2\Suleyman.WebUI.RazorTargetAssemblyInfo.cs
+C:\Users\Suleyman.Aylar\Documents\Visual Studio 2017\Projects\Suleyman\Suleyman.WebUI\obj\Debug\netcoreapp2.2\Suleyman.WebUI.Views.pdb
+C:\Users\Suleyman.Aylar\Documents\Visual Studio 2017\Projects\Suleyman\Suleyman.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\_Layout.g.cshtml.cs
+C:\Users\Suleyman.Aylar\Documents\Visual Studio 2017\Projects\Suleyman\Suleyman.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\CategoryList\Default.g.cshtml.cs
+C:\Users\Suleyman.Aylar\Documents\Visual Studio 2017\Projects\Suleyman\Suleyman.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Suleyman.Aylar\Documents\Visual Studio 2017\Projects\Suleyman\Suleyman.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\CartSummery\Default.g.cshtml.cs
+C:\Users\Suleyman.Aylar\Documents\Visual Studio 2017\Projects\Suleyman\Suleyman.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Cart\List.g.cshtml.cs
+C:\Users\Suleyman.Aylar\Documents\Visual Studio 2017\Projects\Suleyman\Suleyman.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Cart\Complete.g.cshtml.cs
+C:\Users\Suleyman.Aylar\Documents\Visual Studio 2017\Projects\Suleyman\Suleyman.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\_AdminLayout.g.cshtml.cs
+C:\Users\Suleyman.Aylar\Documents\Visual Studio 2017\Projects\Suleyman\Suleyman.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Admin\Index.g.cshtml.cs
+C:\Users\Suleyman.Aylar\Documents\Visual Studio 2017\Projects\Suleyman\Suleyman.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Admin\Add.g.cshtml.cs
+C:\Users\Suleyman.Aylar\Documents\Visual Studio 2017\Projects\Suleyman\Suleyman.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Admin\Update.g.cshtml.cs
+C:\Users\Suleyman.Aylar\Documents\Visual Studio 2017\Projects\Suleyman\Suleyman.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\Suleyman.Aylar\Documents\Visual Studio 2017\Projects\Suleyman\Suleyman.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Account\Register.g.cshtml.cs
+C:\Users\suley\OneDrive\Masaüstü\Suleyman\Suleyman.WebUI\bin\Debug\netcoreapp2.2\Suleyman.WebUI.deps.json
+C:\Users\suley\OneDrive\Masaüstü\Suleyman\Suleyman.WebUI\bin\Debug\netcoreapp2.2\Suleyman.WebUI.runtimeconfig.json
+C:\Users\suley\OneDrive\Masaüstü\Suleyman\Suleyman.WebUI\bin\Debug\netcoreapp2.2\Suleyman.WebUI.runtimeconfig.dev.json
+C:\Users\suley\OneDrive\Masaüstü\Suleyman\Suleyman.WebUI\bin\Debug\netcoreapp2.2\Suleyman.WebUI.dll
+C:\Users\suley\OneDrive\Masaüstü\Suleyman\Suleyman.WebUI\bin\Debug\netcoreapp2.2\Suleyman.WebUI.pdb
+C:\Users\suley\OneDrive\Masaüstü\Suleyman\Suleyman.WebUI\bin\Debug\netcoreapp2.2\Suleyman.WebUI.Views.dll
+C:\Users\suley\OneDrive\Masaüstü\Suleyman\Suleyman.WebUI\bin\Debug\netcoreapp2.2\Suleyman.WebUI.Views.pdb
+C:\Users\suley\OneDrive\Masaüstü\Suleyman\Suleyman.WebUI\bin\Debug\netcoreapp2.2\Suleyman.Bussines.dll
+C:\Users\suley\OneDrive\Masaüstü\Suleyman\Suleyman.WebUI\bin\Debug\netcoreapp2.2\Suleyman.Core.dll
+C:\Users\suley\OneDrive\Masaüstü\Suleyman\Suleyman.WebUI\bin\Debug\netcoreapp2.2\Suleyman.DataAccess.dll
+C:\Users\suley\OneDrive\Masaüstü\Suleyman\Suleyman.WebUI\bin\Debug\netcoreapp2.2\Suleyman.Entities.dll
+C:\Users\suley\OneDrive\Masaüstü\Suleyman\Suleyman.WebUI\bin\Debug\netcoreapp2.2\Suleyman.Bussines.pdb
+C:\Users\suley\OneDrive\Masaüstü\Suleyman\Suleyman.WebUI\bin\Debug\netcoreapp2.2\Suleyman.Core.pdb
+C:\Users\suley\OneDrive\Masaüstü\Suleyman\Suleyman.WebUI\bin\Debug\netcoreapp2.2\Suleyman.DataAccess.pdb
+C:\Users\suley\OneDrive\Masaüstü\Suleyman\Suleyman.WebUI\bin\Debug\netcoreapp2.2\Suleyman.Entities.pdb
+C:\Users\suley\OneDrive\Masaüstü\Suleyman\Suleyman.WebUI\obj\Debug\netcoreapp2.2\Suleyman.WebUI.csprojAssemblyReference.cache
+C:\Users\suley\OneDrive\Masaüstü\Suleyman\Suleyman.WebUI\obj\Debug\netcoreapp2.2\Suleyman.WebUI.csproj.CoreCompileInputs.cache
+C:\Users\suley\OneDrive\Masaüstü\Suleyman\Suleyman.WebUI\obj\Debug\netcoreapp2.2\Suleyman.WebUI.RazorAssemblyInfo.cache
+C:\Users\suley\OneDrive\Masaüstü\Suleyman\Suleyman.WebUI\obj\Debug\netcoreapp2.2\Suleyman.WebUI.RazorAssemblyInfo.cs
+C:\Users\suley\OneDrive\Masaüstü\Suleyman\Suleyman.WebUI\obj\Debug\netcoreapp2.2\Suleyman.WebUI.AssemblyInfoInputs.cache
+C:\Users\suley\OneDrive\Masaüstü\Suleyman\Suleyman.WebUI\obj\Debug\netcoreapp2.2\Suleyman.WebUI.AssemblyInfo.cs
+C:\Users\suley\OneDrive\Masaüstü\Suleyman\Suleyman.WebUI\obj\Debug\netcoreapp2.2\Suleyman.WebUI.TagHelpers.input.cache
+C:\Users\suley\OneDrive\Masaüstü\Suleyman\Suleyman.WebUI\obj\Debug\netcoreapp2.2\Suleyman.WebUI.TagHelpers.output.cache
+C:\Users\suley\OneDrive\Masaüstü\Suleyman\Suleyman.WebUI\obj\Debug\netcoreapp2.2\Suleyman.WebUI.RazorCoreGenerate.cache
+C:\Users\suley\OneDrive\Masaüstü\Suleyman\Suleyman.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\suley\OneDrive\Masaüstü\Suleyman\Suleyman.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Account\Register.g.cshtml.cs
+C:\Users\suley\OneDrive\Masaüstü\Suleyman\Suleyman.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Admin\Add.g.cshtml.cs
+C:\Users\suley\OneDrive\Masaüstü\Suleyman\Suleyman.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Admin\Index.g.cshtml.cs
+C:\Users\suley\OneDrive\Masaüstü\Suleyman\Suleyman.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Admin\Update.g.cshtml.cs
+C:\Users\suley\OneDrive\Masaüstü\Suleyman\Suleyman.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Cart\Complete.g.cshtml.cs
+C:\Users\suley\OneDrive\Masaüstü\Suleyman\Suleyman.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Cart\List.g.cshtml.cs
+C:\Users\suley\OneDrive\Masaüstü\Suleyman\Suleyman.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Product\Index.g.cshtml.cs
+C:\Users\suley\OneDrive\Masaüstü\Suleyman\Suleyman.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\CartSummery\Default.g.cshtml.cs
+C:\Users\suley\OneDrive\Masaüstü\Suleyman\Suleyman.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\CategoryList\Default.g.cshtml.cs
+C:\Users\suley\OneDrive\Masaüstü\Suleyman\Suleyman.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\_AdminLayout.g.cshtml.cs
+C:\Users\suley\OneDrive\Masaüstü\Suleyman\Suleyman.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\_Layout.g.cshtml.cs
+C:\Users\suley\OneDrive\Masaüstü\Suleyman\Suleyman.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\suley\OneDrive\Masaüstü\Suleyman\Suleyman.WebUI\obj\Debug\netcoreapp2.2\Suleyman.WebUI.RazorTargetAssemblyInfo.cache
+C:\Users\suley\OneDrive\Masaüstü\Suleyman\Suleyman.WebUI\obj\Debug\netcoreapp2.2\Suleyman.WebUI.RazorTargetAssemblyInfo.cs
+C:\Users\suley\OneDrive\Masaüstü\Suleyman\Suleyman.WebUI\obj\Debug\netcoreapp2.2\Suleyman.WebUI.Views.pdb
+C:\Users\suley\OneDrive\Masaüstü\Suleyman\Suleyman.WebUI\obj\Debug\netcoreapp2.2\Suleyman.WebUI.csproj.CopyComplete
+C:\Users\suley\OneDrive\Masaüstü\Suleyman\Suleyman.WebUI\obj\Debug\netcoreapp2.2\Suleyman.WebUI.dll
+C:\Users\suley\OneDrive\Masaüstü\Suleyman\Suleyman.WebUI\obj\Debug\netcoreapp2.2\Suleyman.WebUI.pdb

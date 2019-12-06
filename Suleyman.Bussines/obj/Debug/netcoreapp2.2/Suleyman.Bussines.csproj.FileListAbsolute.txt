@@ -1,0 +1,32 @@
+C:\Users\Suleyman.Aylar\Documents\Visual Studio 2017\Projects\Suleyman\Suleyman.Bussines\bin\Debug\netcoreapp2.2\Suleyman.Bussines.deps.json
+C:\Users\Suleyman.Aylar\Documents\Visual Studio 2017\Projects\Suleyman\Suleyman.Bussines\bin\Debug\netcoreapp2.2\Suleyman.Bussines.dll
+C:\Users\Suleyman.Aylar\Documents\Visual Studio 2017\Projects\Suleyman\Suleyman.Bussines\bin\Debug\netcoreapp2.2\Suleyman.Bussines.pdb
+C:\Users\Suleyman.Aylar\Documents\Visual Studio 2017\Projects\Suleyman\Suleyman.Bussines\bin\Debug\netcoreapp2.2\Suleyman.Core.dll
+C:\Users\Suleyman.Aylar\Documents\Visual Studio 2017\Projects\Suleyman\Suleyman.Bussines\bin\Debug\netcoreapp2.2\Suleyman.DataAccess.dll
+C:\Users\Suleyman.Aylar\Documents\Visual Studio 2017\Projects\Suleyman\Suleyman.Bussines\bin\Debug\netcoreapp2.2\Suleyman.Entities.dll
+C:\Users\Suleyman.Aylar\Documents\Visual Studio 2017\Projects\Suleyman\Suleyman.Bussines\bin\Debug\netcoreapp2.2\Suleyman.DataAccess.pdb
+C:\Users\Suleyman.Aylar\Documents\Visual Studio 2017\Projects\Suleyman\Suleyman.Bussines\bin\Debug\netcoreapp2.2\Suleyman.Entities.pdb
+C:\Users\Suleyman.Aylar\Documents\Visual Studio 2017\Projects\Suleyman\Suleyman.Bussines\bin\Debug\netcoreapp2.2\Suleyman.Core.pdb
+C:\Users\Suleyman.Aylar\Documents\Visual Studio 2017\Projects\Suleyman\Suleyman.Bussines\obj\Debug\netcoreapp2.2\Suleyman.Bussines.csprojAssemblyReference.cache
+C:\Users\Suleyman.Aylar\Documents\Visual Studio 2017\Projects\Suleyman\Suleyman.Bussines\obj\Debug\netcoreapp2.2\Suleyman.Bussines.csproj.CoreCompileInputs.cache
+C:\Users\Suleyman.Aylar\Documents\Visual Studio 2017\Projects\Suleyman\Suleyman.Bussines\obj\Debug\netcoreapp2.2\Suleyman.Bussines.AssemblyInfoInputs.cache
+C:\Users\Suleyman.Aylar\Documents\Visual Studio 2017\Projects\Suleyman\Suleyman.Bussines\obj\Debug\netcoreapp2.2\Suleyman.Bussines.AssemblyInfo.cs
+C:\Users\Suleyman.Aylar\Documents\Visual Studio 2017\Projects\Suleyman\Suleyman.Bussines\obj\Debug\netcoreapp2.2\Suleyman.Bussines.csproj.CopyComplete
+C:\Users\Suleyman.Aylar\Documents\Visual Studio 2017\Projects\Suleyman\Suleyman.Bussines\obj\Debug\netcoreapp2.2\Suleyman.Bussines.dll
+C:\Users\Suleyman.Aylar\Documents\Visual Studio 2017\Projects\Suleyman\Suleyman.Bussines\obj\Debug\netcoreapp2.2\Suleyman.Bussines.pdb
+C:\Users\suley\OneDrive\Masaüstü\Suleyman\Suleyman.Bussines\bin\Debug\netcoreapp2.2\Suleyman.Bussines.deps.json
+C:\Users\suley\OneDrive\Masaüstü\Suleyman\Suleyman.Bussines\bin\Debug\netcoreapp2.2\Suleyman.Bussines.dll
+C:\Users\suley\OneDrive\Masaüstü\Suleyman\Suleyman.Bussines\bin\Debug\netcoreapp2.2\Suleyman.Bussines.pdb
+C:\Users\suley\OneDrive\Masaüstü\Suleyman\Suleyman.Bussines\bin\Debug\netcoreapp2.2\Suleyman.Core.dll
+C:\Users\suley\OneDrive\Masaüstü\Suleyman\Suleyman.Bussines\bin\Debug\netcoreapp2.2\Suleyman.DataAccess.dll
+C:\Users\suley\OneDrive\Masaüstü\Suleyman\Suleyman.Bussines\bin\Debug\netcoreapp2.2\Suleyman.Entities.dll
+C:\Users\suley\OneDrive\Masaüstü\Suleyman\Suleyman.Bussines\bin\Debug\netcoreapp2.2\Suleyman.DataAccess.pdb
+C:\Users\suley\OneDrive\Masaüstü\Suleyman\Suleyman.Bussines\bin\Debug\netcoreapp2.2\Suleyman.Entities.pdb
+C:\Users\suley\OneDrive\Masaüstü\Suleyman\Suleyman.Bussines\bin\Debug\netcoreapp2.2\Suleyman.Core.pdb
+C:\Users\suley\OneDrive\Masaüstü\Suleyman\Suleyman.Bussines\obj\Debug\netcoreapp2.2\Suleyman.Bussines.csprojAssemblyReference.cache
+C:\Users\suley\OneDrive\Masaüstü\Suleyman\Suleyman.Bussines\obj\Debug\netcoreapp2.2\Suleyman.Bussines.csproj.CoreCompileInputs.cache
+C:\Users\suley\OneDrive\Masaüstü\Suleyman\Suleyman.Bussines\obj\Debug\netcoreapp2.2\Suleyman.Bussines.AssemblyInfoInputs.cache
+C:\Users\suley\OneDrive\Masaüstü\Suleyman\Suleyman.Bussines\obj\Debug\netcoreapp2.2\Suleyman.Bussines.AssemblyInfo.cs
+C:\Users\suley\OneDrive\Masaüstü\Suleyman\Suleyman.Bussines\obj\Debug\netcoreapp2.2\Suleyman.Bussines.csproj.CopyComplete
+C:\Users\suley\OneDrive\Masaüstü\Suleyman\Suleyman.Bussines\obj\Debug\netcoreapp2.2\Suleyman.Bussines.dll
+C:\Users\suley\OneDrive\Masaüstü\Suleyman\Suleyman.Bussines\obj\Debug\netcoreapp2.2\Suleyman.Bussines.pdb
